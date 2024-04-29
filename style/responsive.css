@@ -1,0 +1,34 @@
+@media screen and (max-width: 960px) {
+    .slider_text {
+        font-size: 2.2em;
+    }
+    .r_mx_3{
+        margin-left: 3rem !important;
+        margin-right: 3rem !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .slider_text {
+        font-size: 2em;
+        top: 26%;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .slider_text {
+        font-size: 1.5em;
+        top: 20%;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .r_my-3 {
+        margin-top: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+    .r_py-3 {
+        margin-top: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+}
